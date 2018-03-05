@@ -1,0 +1,14 @@
+{
+  "name": "descending-string-interval",
+  "version": "0.0.1",
+  "description": "program that will countdown from 10. Instead of using actual numbers for the countdown, have the output display a string consisting of asterisk marks, corresponding to the number in the countdown. Each countdown tick should be displayed on a new line.",
+  "main": "triangleOpp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria D. Campbell",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.18.2"
+  }
+}
