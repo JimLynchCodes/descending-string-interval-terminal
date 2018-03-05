@@ -2,7 +2,7 @@
 function createOppTriangle(height) {
     for (let i = 0; i < height; i++) {
         let row = '';
-        for (j = 0; j < (height - i + 1); j++) {
+        for (j = 0; j < (height - i); j++) {
             row += '*';
         }
         console.log(row);
